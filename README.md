@@ -1,6 +1,6 @@
 # 📊 Precio vs. Ingresos Trimestrales — Tesla & GameStop
 
-**Notebook final:** `peer_review_tsla_gme_Felipe_Morales.ipynb`  
+**Notebook:** `peer_review_tsla_gme_Felipe_Morales.ipynb`  
 > Proyecto didáctico de webscrapping financiero para comparar el **precio histórico** de una acción con sus **ingresos (revenue) trimestrales** y generar un **dashboard** con dos paneles (precio e ingresos). Incluye *fallbacks* y parches para ejecutarse incluso cuando las fuentes web cambian o bloquean el acceso.
 
 ---
