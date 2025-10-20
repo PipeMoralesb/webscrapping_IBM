@@ -23,7 +23,7 @@
 
 ## 🎯 Objetivo
 Responder de forma visual a la pregunta: **¿Cómo se relaciona el precio de mercado de una empresa con su desempeño operativo (ingresos trimestrales)?**  
-El proyecto te entrega dashboards para **Tesla (TSLA)** y **GameStop (GME)** que puedes abrir, capturar y compartir.
+El proyecto entrega dashboards para **Tesla (TSLA)** y **GameStop (GME)** .
 
 ---
 
@@ -134,8 +134,8 @@ pip install pandas yfinance requests beautifulsoup4 lxml plotly
 ---
 
 ## 📄 Licencia y créditos
-- Código y contenido educativo: licencia **MIT** (ajusta si lo deseas).  
-- Datos: pertenecen a sus **fuentes originales** (Yahoo Finance, Macrotrends). Úsalos conforme a sus términos.  
+- Código y contenido educativo: licencia **MIT**.  
+- Datos: pertenecen a sus **fuentes originales** (Yahoo Finance, Macrotrends).  
 - Agradecimientos: comunidad de **pandas**, **plotly** y **yfinance**.
 
 ---
