@@ -93,19 +93,17 @@ pip install pandas yfinance requests beautifulsoup4 lxml plotly
 
 ## 🖼️ Resultados / Imágenes
 
-### Tesla
-**Pega aquí tu captura del HTML de Tesla**  
-```markdown
-![Dashboard Tesla: Precio vs. Ingresos](ruta/tu_captura_tsla.png)
-```
+### Dashboard Tesla
+<img width="961" height="461" alt="image" src="https://github.com/user-attachments/assets/e8d14040-998d-4448-b749-7b05f2fbdbe8" />
+
 
 ### GameStop
-<img width="961" height="461" alt="image" src="https://github.com/user-attachments/assets/f5b3b966-bbe5-4a06-ac5a-eac97009f88f" />
+<img width="946" height="459" alt="image" src="https://github.com/user-attachments/assets/c56e1195-e9d9-4aa4-8c52-b7635539a542" />
 ```markdown
 ![Dashboard GameStop: Precio vs. Ingresos](ruta/tu_captura_gme.png)
 ```
 
-> Las capturas se obtienen abriendo `tsla_dashboard.html` y `gme_dashboard.html` en tu navegador.
+> Las capturas se obtienen abriendo `tsla_dashboard.html` y `gme_dashboard.html` en tu navegador. ahí puedes observar las gráficas en detalle.
 
 ---
 
