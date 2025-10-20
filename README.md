@@ -86,7 +86,7 @@ pip install pandas yfinance requests beautifulsoup4 lxml plotly
 
 ### Ejecutar
 1. Abre `peer_review_tsla_gme_FINAL_ALLFIX.ipynb` en Jupyter / VSCode / Watson Studio.
-2. Ejecuta las celdas **en orden** (Q1 → Q7).  
+2. Ejecuta las celdas **en orden**.  
 3. Al finalizar, encontrarás **CSV** y **HTML** listos en la carpeta.
 
 ---
