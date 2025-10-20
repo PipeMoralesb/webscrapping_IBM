@@ -100,7 +100,7 @@ pip install pandas yfinance requests beautifulsoup4 lxml plotly
 ```
 
 ### GameStop
-**Pega aquí tu captura del HTML de GameStop**  
+<img width="961" height="461" alt="image" src="https://github.com/user-attachments/assets/f5b3b966-bbe5-4a06-ac5a-eac97009f88f" />
 ```markdown
 ![Dashboard GameStop: Precio vs. Ingresos](ruta/tu_captura_gme.png)
 ```
