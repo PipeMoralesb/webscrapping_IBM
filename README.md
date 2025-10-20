@@ -99,9 +99,7 @@ pip install pandas yfinance requests beautifulsoup4 lxml plotly
 
 ### GameStop
 <img width="946" height="459" alt="image" src="https://github.com/user-attachments/assets/c56e1195-e9d9-4aa4-8c52-b7635539a542" />
-```markdown
-![Dashboard GameStop: Precio vs. Ingresos](ruta/tu_captura_gme.png)
-```
+
 
 > Las capturas se obtienen abriendo `tsla_dashboard.html` y `gme_dashboard.html` en tu navegador. ahí puedes observar las gráficas en detalle.
 
